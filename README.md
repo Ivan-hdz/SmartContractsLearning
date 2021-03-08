@@ -1,2 +1,2 @@
-# SmartContractsLearning
+# Smart Contracts Learning
 Smart Contracts examples
